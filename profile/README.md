@@ -24,7 +24,7 @@ With RankPulse, every minute you play **truly counts**.
 ## 📥 How to Install?
 
 1.  Go to our official website 👉 [RankPulse
-    Website](https://site.lab-net.fr)
+    Website](https://rankpulseapp.com)
 2.  Download the **latest version** of the app ⬇️
 3.  Install it in just a few clicks and **connect your account**
 4.  Launch your games and... let RankPulse do the magic 🎮
